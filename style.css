@@ -158,3 +158,12 @@ a {
     margin-top: 0%;
     color: #E5E7EB;
 }
+
+.foot {
+    background-color: #1F2937;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+}
